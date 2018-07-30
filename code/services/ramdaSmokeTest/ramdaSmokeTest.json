@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,ramda",
+    "logging_enabled": "false",
+    "name": "ramdaSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "ramdaSmokeTest.js"
+}
