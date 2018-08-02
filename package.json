@@ -120,5 +120,6 @@
   },
   "side-effects": false,
   "unpkg": "dist/ramda.min.js",
-  "version": "0.25.0"
+  "version": "0.25.0",
+  "image": "https://i.imgur.com/uXrZDi2.png"
 }
