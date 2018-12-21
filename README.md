@@ -1,3 +1,15 @@
+Invocation
+=============
+## IoT Package Manager (IPM)
+```
+var <CAPITALIZED_REPO_NAME> = <REPO_NAME>_IPM
+```
+## npm
+```
+var <CAPITALIZED_REPO_NAME> = require('<REPO_NAME>')
+```
+
+
 Ramda
 =============
 
